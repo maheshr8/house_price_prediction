@@ -1,5 +1,4 @@
 # house_price_prediction
-
 House Prices - Advanced Regression Techniques
 
 The aim of this project is to predict the sale prices of house based on various features.
